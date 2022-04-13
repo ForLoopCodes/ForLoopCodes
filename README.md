@@ -13,5 +13,5 @@
 - ⚡ Fun fact: ⭐ **Neutron stars can spin at a rate of 600 rotations per second.**
 - 🤩 Fact on me: I am a **human**.
 #
-### 💖 It is my pleasure that such a beautiful person id seeing my profile. 😍
+### 💖 It is my pleasure that such a beautiful person is seeing my profile. 😍
 ##### ⬇️ You can now continue scrolling to see more!
