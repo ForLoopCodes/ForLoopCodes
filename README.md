@@ -29,7 +29,8 @@
 #
 ### 🏆 #Certified!
 #### 🎉 I'm a [_W3Schools_](https://w3schools.com) **certified** web developer for the year 2021. ⬇️
->> ![Meet](https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG)
+>> ```1. HTML Certificate:``` ![Meet](https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG)
+>> ```2. CSS Certificate:``` ![Meet Patel](https://user-images.githubusercontent.com/89027512/163441329-78c134e7-b09f-4a40-9ad1-ba6d1adea7ed.png)
 #### I'm also targeting to attempt [_Microsoft's_](https://microsoft.com) web development examination in further years.
 #
 ### 🎊 Hire me!
