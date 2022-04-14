@@ -43,12 +43,3 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** web
 ### 💖 It's my pleasure that such a beautiful person is seeing my profile. 😍
 ##### ⬇️ You can now continue scrolling to see more!
 #
-### 😉 For you:
->> Never gonna give you up,
->> never gonna let you down,
->> never gonna run around and desert you,
->> never gonna make you cry,
->> never gonna say goodbye,
->> never gonna tell a lie and hurt you.
-#### Sorry for that 😂
-
