@@ -4,6 +4,16 @@
 ###### 👨‍💻 A web developer and an eager learner from Gujarat, India.
 
 #
+<h3 align="center"> ✨ My main skills: </h3>
+
+
+> <a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a>
+> 
+> <a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" /></a>
+> 
+> <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a>
+
+#
 <h3 align="center"> 😄 Something about me: </h3>
 
 - I'm **fueled ⛽ by the passion** for understanding the ciphers of **web designing ✍️**. I consider myself a **‘forever student 🧑‍🎓,’** eager to both build on my **academic foundations** in engineering and **stay in tune with the latest 🆕 website design ideas** and web development.
@@ -26,6 +36,7 @@
 <h3 align="center"> 🎨 My hobbies! </h3>
 
 - I'm a good **sketcher** ✏️
+- I listen **pop**, **hip-hop**, and **elecrtonic** songs 🎶 
 - I love collecting old **coins** 🪙
 - I've collected a lot of **seashells!** 🐚 
 - I **design** websites 🧑‍💻
