@@ -4,14 +4,6 @@
 ###### 👨‍💻 A web developer and an eager learner from Gujarat, India.
 
 #
-<h3 align="center"> ✨ My main skills: </h3>
-
-
-<p align="center"><br><a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="75" height="75" alt="HTML5" /></a>
-<a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="75" height="75" alt="CSS3" /></a>
-<a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="Javascript" /></a></p>
-
-#
 <h3 align="center"> 😄 Something about me: </h3><br>
 
 - I'm **fueled ⛽ by the passion** for understanding the ciphers of **web designing ✍️**. I consider myself a **‘forever student 🧑‍🎓,’** eager to both build on my **academic foundations** in engineering and **stay in tune with the latest 🆕 website design ideas** and web development.
@@ -40,6 +32,14 @@
 - I **design** websites 🧑‍💻
 - I do speedsolve 3x3, 4x4 and 5x5 **rubik's cubes** 😈
 - I also lave playing **chess!** ♟️
+#
+<h3 align="center"> ✨ My main skills: </h3>
+
+
+<p align="center"><br><a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="75" height="75" alt="HTML5" /></a>
+<a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="75" height="75" alt="CSS3" /></a>
+<a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="Javascript" /></a></p>
+
 #
 <h3 align="center"> 🏆 #Certified! </h3><br>
 
