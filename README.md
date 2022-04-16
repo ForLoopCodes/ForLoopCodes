@@ -34,7 +34,7 @@
 <h3 align="center"> 🎨 My hobbies! </h3><br>
 
 - I'm a good **sketcher** ✏️
-- I listen **pop**, **hip-hop**, and **elecrtonic** songs 🎶 
+- I listen **pop**, **hip-hop**, and **electronic** songs 🎶 
 - I love collecting old **coins** 🪙
 - I've collected a lot of **seashells!** 🐚 
 - I **design** websites 🧑‍💻
@@ -64,9 +64,9 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** web
 - ✉️ Email 👉 _meetnp1706@gmail.com_
 #
 <h3 align="center"> 🙋‍♂️ Social </h3><br>
-<a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/meetpatel1706 target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/github/followers/meetpatel1706?logo=github&style=for-the-badge&color=DAA520&labelColor=000000" /></a>
- 
+                                                                                                                                
 #
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89027512/163426788-49aa3f73-6636-4586-998b-45b42ea7d560.png"></p>
