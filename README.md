@@ -46,11 +46,16 @@
 #### 🎉 I'm a [_W3Schools_](https://w3schools.com) **certified** web developer for the year 2021. ⬇️
 >> ```1. HTML Certificate:``` 
 >> 
->> <img height="400px" src="https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG" />
+>> <img height="400px" src="https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG" alt="HTML CERTIFICATE OF MEET PATEL."/>
 >> 
 >> ```2. CSS Certificate:``` 
 >> 
->> <img height="400px" src="https://user-images.githubusercontent.com/89027512/163441329-78c134e7-b09f-4a40-9ad1-ba6d1adea7ed.png" />
+>> <img height="400px" src="https://user-images.githubusercontent.com/89027512/163441329-78c134e7-b09f-4a40-9ad1-ba6d1adea7ed.png" alt="CSS CERTIFICATE OF MEET PATEL."/>
+>> 
+>> ```3. JavaScript Certificate:``` 
+>> 
+>> <img height="400px" src="https://user-images.githubusercontent.com/89027512/163675005-0df2c98d-b17a-4c48-8920-0fbe1362bfdf.png" alt="JAVASCRIPT CERTIFICATE OF MEET PATEL."/>
+
 
 #### I'm also targeting to attempt [_Microsoft's_](https://microsoft.com) web development examination in further years.
 #
