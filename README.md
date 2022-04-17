@@ -1,7 +1,7 @@
 
 #### Hi there 👋
 ### 😎 I was named Meet Patel.
-###### 👨‍💻 A front-end web developer and an eager learner from <a href="https://www.google.com/maps/place/Gujarat/@22.4168315,71.319437,7z/data=!3m1!4b1!4m5!3m4!1s0x3959051f5f0ef795:0x861bd887ed54522e!8m2!3d22.258652!4d71.1923805?hl=en" target="_blank">Gujarat, India.</a>
+###### 👨‍💻 A front-end web developer and an eager learner from <a href="https://www.google.com/maps/place/Gujarat/@22.4168315,71.319437,7z/data=!3m1!4b1!4m5!3m4!1s0x3959051f5f0ef795:0x861bd887ed54522e!8m2!3d22.258652!4d71.1923805?hl=en" target="_blank" rel="noreferrer">Gujarat, India.</a>
 
 #
 <h3 align="center"> 😄 Something about me: </h3><br>
