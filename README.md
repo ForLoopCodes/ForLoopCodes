@@ -51,8 +51,11 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 - ✉️ Email 👉 _meetnp1706@gmail.com_
 #
 <h3 align="center"> 🙋‍♂️ Social </h3><br>
+<p align="center">
 <a href="https://www.github.com/meetpatel1706 target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/github/followers/meetpatel1706?logo=github&style=for-the-badge&color=DAA520&labelColor=000000" /></a>
+ <img src="https://user-images.githubusercontent.com/89027512/163718967-7ecdea9b-9ffe-4758-947b-418e63a7f63d.png" /></a> 
+<a href="https://www.youtube.com/channel/UCvzOZ7bQm1Gj4RdspWyaKBw target="_blank" rel="noreferrer">
+ <img src="https://user-images.githubusercontent.com/89027512/163718828-4899c2a4-7400-48d3-beb6-b2dcdde4ce0f.png" /></a></p>
                                                                                                                                 
 #
 
@@ -76,6 +79,6 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 #
 <h3 align="center"> ☕ Support Me: </h3><br>
 
-<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><br><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/89027512/163716702-71661c97-4b42-4539-8360-5766d827a2c7.jpg" /></a></p>
+<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" width="49%" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><br><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buymeacoffee" width="49%" src="https://user-images.githubusercontent.com/89027512/163716702-71661c97-4b42-4539-8360-5766d827a2c7.jpg" /></a></p>
 
 #
