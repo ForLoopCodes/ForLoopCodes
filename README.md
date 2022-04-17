@@ -58,7 +58,7 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 #
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89027512/163426788-49aa3f73-6636-4586-998b-45b42ea7d560.png"></p>
-<h3 align="center"> 💖 It's my pleasure that such a beautiful person is seeing my profile. 😍 </h3>
+<h3 align="center"> 💖 It's my pleasure that such a beautiful person is reading my profile. 😍 </h3>
 
 ##### ⬇️ You can now continue scrolling to see more!
 #
