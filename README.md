@@ -70,18 +70,7 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 <h3 align="center"> 🏆 Hall of fame: </h3><br>
 
 #### 🎉 I'm a [_W3Schools_](https://w3schools.com) **certified** front-end web developer for the year 2021. ⬇️
->> ```1. HTML Certificate:``` 
->> 
->> <img height="350px" src="https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG" alt="HTML CERTIFICATE OF MEET PATEL."/>
->> 
->> ```2. CSS Certificate:``` 
->> 
->> <img height="350px" src="https://user-images.githubusercontent.com/89027512/163441329-78c134e7-b09f-4a40-9ad1-ba6d1adea7ed.png" alt="CSS CERTIFICATE OF MEET PATEL."/>
->> 
->> ```3. JavaScript Certificate:``` 
->> 
->> <img height="350px" src="https://user-images.githubusercontent.com/89027512/163675005-0df2c98d-b17a-4c48-8920-0fbe1362bfdf.png" alt="JAVASCRIPT CERTIFICATE OF MEET PATEL."/>
-
+> <img height="300px" src="https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG" alt="HTML CERTIFICATE OF MEET PATEL."/><img height="300px" src="https://user-images.githubusercontent.com/89027512/163441329-78c134e7-b09f-4a40-9ad1-ba6d1adea7ed.png" alt="CSS CERTIFICATE OF MEET PATEL."/><img height="300px" src="https://user-images.githubusercontent.com/89027512/163675005-0df2c98d-b17a-4c48-8920-0fbe1362bfdf.png" alt="JAVASCRIPT CERTIFICATE OF MEET PATEL."/><img height="300px" src="https://user-images.githubusercontent.com/89027512/163714130-9ab52661-2249-40ba-8a53-0f0a49433408.png" alt="JQUERY CERTIFICATE OF MEET PATEL."/>
 
 #### I'm also targeting to attempt [_Microsoft's_](https://microsoft.com) web development examination in further years.
 #
