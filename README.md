@@ -14,7 +14,6 @@
 #
 <h3 align="center"> ✨ My main skills: </h3>
 
-
 <p align="center"><br><a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="75" height="75" alt="HTML5" /></a>
 <a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="75" height="75" alt="CSS3" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="Javascript" /></a>
@@ -70,7 +69,13 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 <h3 align="center"> 🏆 Hall of fame: </h3><br>
 
 #### 🎉 I'm a [_W3Schools_](https://w3schools.com) **certified** front-end web developer for the year 2021. ⬇️
-> <img height="300px" src="https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG" alt="HTML CERTIFICATE OF MEET PATEL."/><img height="300px" src="https://user-images.githubusercontent.com/89027512/163441329-78c134e7-b09f-4a40-9ad1-ba6d1adea7ed.png" alt="CSS CERTIFICATE OF MEET PATEL."/><img height="300px" src="https://user-images.githubusercontent.com/89027512/163675005-0df2c98d-b17a-4c48-8920-0fbe1362bfdf.png" alt="JAVASCRIPT CERTIFICATE OF MEET PATEL."/><img height="300px" src="https://user-images.githubusercontent.com/89027512/163714130-9ab52661-2249-40ba-8a53-0f0a49433408.png" alt="JQUERY CERTIFICATE OF MEET PATEL."/>
+> <img width="49%" src="https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG" alt="HTML CERTIFICATE OF MEET PATEL."/><img width="49%" src="https://user-images.githubusercontent.com/89027512/163441329-78c134e7-b09f-4a40-9ad1-ba6d1adea7ed.png" alt="CSS CERTIFICATE OF MEET PATEL."/><img width="49%" src="https://user-images.githubusercontent.com/89027512/163675005-0df2c98d-b17a-4c48-8920-0fbe1362bfdf.png" alt="JAVASCRIPT CERTIFICATE OF MEET PATEL."/><img width="49%" src="https://user-images.githubusercontent.com/89027512/163714130-9ab52661-2249-40ba-8a53-0f0a49433408.png" alt="JQUERY CERTIFICATE OF MEET PATEL."/>
 
 #### I'm also targeting to attempt [_Microsoft's_](https://microsoft.com) web development examination in further years.
+
+#
+<h3 align="center"> ☕ Support Me: </h3><br>
+
+<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><br><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/89027512/163716702-71661c97-4b42-4539-8360-5766d827a2c7.jpg" /></a></p>
+
 #
