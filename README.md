@@ -40,7 +40,7 @@
 - I've collected a lot of **seashells!** 🐚 
 - I **design** websites 🧑‍💻
 - I do speedsolve 3x3, 4x4 and 5x5 **rubik's cubes** 😈
-- I also lave playing **chess!** ♟️
+- I also love playing **chess!** ♟️
 #
 <h3 align="center"> 🎊 Hire me! </h3><br>
 
