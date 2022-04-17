@@ -10,7 +10,7 @@
 - I'm an **accomplished coder and programmer 👨‍💻**, and I enjoy using my **skills 🤹** to contribute to the exciting **technological advances** that happen every day ☀️.
 - My **hunger 🍔 for knowledge** and **determination** to turn ideas 💡 into applications has contributed to most of my projects. Meanwhile, I vastly improved my  productivity by implementing **strategic project management methods 🙂** and ensuring a **code-life balance ⚖️**.
 - I believe that **mindfulness 🧠 in the workplace is key 🗝️ to success** - a tenet I live out through my interests in coding, speedcubing, chess, and studying.
-- I'm **always interested 🤗 in a challenge**. Refer _reach out to me_ section below ⬇️ to connect!
+- I'm **always interested 🤗 in a challenge**. Refer _find me on_ section below ⬇️ to connect!
 #
 <h3 align="center"> ✨ My main skills: </h3>
 
@@ -27,7 +27,7 @@
 - 👯 I’m looking to **collaborate on HTML-CSS-JavaScript-JQuery** apps.
 - 🤔 I’m looking for **help with CSS dark modes**.
 - 📖 I'm aiming to **crack JEE Mains** Examination.
-- 📫 **How to reach me?** Refer _reach out to me_ section below ⬇️.
+- 📫 **How to reach me?** Refer _find me on_ section below ⬇️.
 - ⚡ Fun fact: ⭐ **Neutron stars can spin at a rate of 600 rotations per second.**
 - 🤩 Fact on me: I'm a **human**.
 #
@@ -45,17 +45,16 @@
 
 _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** front-end web developers you will come across! My ability to write codes, sharable content, **professionalism 😸**, and attention in **detail** are extremely hard to find 😉. I'm a **creative 🎨** idea 💡 generator and deliver **quality**, strategic content 📝. I will surely make your dreams come true, grasp your business needs 🙌 and **meet your goals!** **"**_
 >> #### I'm learning and making projects with HTML-CSS-JavaScript-JQuery for more than 3 years from now! 😄 I can build your website, just a [_click 🖱️_](https://meetpatel1706.github.io) to do.
+>> 
 #
-<h3 align="center"> 📱 Reach out to me: </h3><br>
-
-- ✉️ Email 👉 _meetnp1706@gmail.com_
-#
-<h3 align="center"> 🙋‍♂️ Social </h3><br>
+<h3 align="center"> 🙋‍♂️ Find me on: </h3><br>
 <p align="center">
 <a href="https://www.github.com/meetpatel1706" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163719699-fee00a64-ecc5-4f0e-ab0a-9cc318c46ef7.png" /></a> 
 <a href="https://www.youtube.com/channel/UCvzOZ7bQm1Gj4RdspWyaKBw" target="_blank" rel="noreferrer">
- <img height="100px" src="https://user-images.githubusercontent.com/89027512/163722760-dd0f3266-7e48-4303-a70b-9c1e02120c57.png" /></a></p>
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163722760-dd0f3266-7e48-4303-a70b-9c1e02120c57.png" /></a>
+<a href="mailto:meetnp1706@gmail.com?subject=👋%20Hey%20there!%20Meet%20Patel!" target="_blank" rel="noreferrer">
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163724800-d601f4e1-43b1-4011-9c56-b683dcad1bc7.jpg" /></a></p>
                                                                                                                                 
 #
 
@@ -79,6 +78,6 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 #
 <h3 align="center"> ☕ Support Me: </h3><br>
 
-<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" width="49%" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><br><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buymeacoffee" width="49%" src="https://user-images.githubusercontent.com/89027512/163716702-71661c97-4b42-4539-8360-5766d827a2c7.jpg" /></a></p>
+<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buymeacoffee" height="200px" src="https://user-images.githubusercontent.com/89027512/163716702-71661c97-4b42-4539-8360-5766d827a2c7.jpg" /></a></p>
 
 #
