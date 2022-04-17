@@ -24,7 +24,7 @@
 <h3 align="center"> ℹ️ Some more info on me: </h3><br>
 
 - 🔭 I’m currently **working on** making and designing a **daily news feed web app**.
-- 🌱 I’m currently **learning JavaScript**.
+- 🌱 I’m currently **learning Node.js**.
 - 👯 I’m looking to **collaborate on HTML-CSS-JavaScript-JQuery** apps.
 - 🤔 I’m looking for **help with CSS dark modes**.
 - 📖 I'm aiming to **crack JEE Mains** Examination.
