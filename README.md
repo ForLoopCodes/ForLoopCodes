@@ -53,9 +53,11 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 <h3 align="center"> 🙋‍♂️ Social </h3><br>
 <p align="center">
 <a href="https://www.github.com/meetpatel1706" target="_blank" rel="noreferrer">
- <img height="200px" src="https://user-images.githubusercontent.com/89027512/163719699-fee00a64-ecc5-4f0e-ab0a-9cc318c46ef7.png" /></a> 
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163719699-fee00a64-ecc5-4f0e-ab0a-9cc318c46ef7.png" /></a> 
 <a href="https://www.youtube.com/channel/UCvzOZ7bQm1Gj4RdspWyaKBw" target="_blank" rel="noreferrer">
- <img height="200px" src="https://user-images.githubusercontent.com/89027512/163719579-3de71012-4cc4-4203-b6ba-7e6121416f1c.png" /></a></p>
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163722760-dd0f3266-7e48-4303-a70b-9c1e02120c57.png" /></a>
+<a href="https://www.youtube.com/channel/UCvzOZ7bQm1Gj4RdspWyaKBw" target="_blank" rel="noreferrer">
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163722760-dd0f3266-7e48-4303-a70b-9c1e02120c57.png" /></a></p>
                                                                                                                                 
 #
 
