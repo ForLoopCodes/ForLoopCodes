@@ -58,7 +58,9 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 <a href="mailto:meetnp1706@gmail.com?subject=👋%20Hey%20there!%20Meet%20Patel!" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163724800-d601f4e1-43b1-4011-9c56-b683dcad1bc7.jpg" /></a>
 <a href="https://www.deviantart.com/meetnp1706" target="_blank" rel="noreferrer">
- <img height="100px" src="https://user-images.githubusercontent.com/89027512/163752999-017582b1-9c81-4773-b1af-f790cee138b9.png" /></a></p>
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163752999-017582b1-9c81-4773-b1af-f790cee138b9.png" /></a>
+<a href="https://www.chess.com/member/meetpatel1706" target="_blank" rel="noreferrer">
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163755339-c604139d-ec57-4cc0-83b0-6a9da62c1ebe.png" /></a></p>
                                                                                                                                 
 #
 
