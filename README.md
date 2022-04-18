@@ -1,6 +1,8 @@
 
 #### Hi there 👋
-### 😎 I was named Meet Patel.
+
+<h3><img src="https://user-images.githubusercontent.com/89027512/163753169-0c1b747c-d721-41e5-9c84-0edaf9a75a59.gif" /><br> 😎 I was named Meet Patel. </h3>
+
 ###### 👨‍💻 A front-end web developer and an eager learner from <a href="https://www.google.com/maps/place/Gujarat/@22.4168315,71.319437,7z/data=!3m1!4b1!4m5!3m4!1s0x3959051f5f0ef795:0x861bd887ed54522e!8m2!3d22.258652!4d71.1923805?hl=en" target="_blank" rel="noreferrer">Gujarat, India.</a>
 
 #
@@ -54,7 +56,9 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 <a href="https://www.youtube.com/channel/UCvzOZ7bQm1Gj4RdspWyaKBw" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163722760-dd0f3266-7e48-4303-a70b-9c1e02120c57.png" /></a>
 <a href="mailto:meetnp1706@gmail.com?subject=👋%20Hey%20there!%20Meet%20Patel!" target="_blank" rel="noreferrer">
- <img height="100px" src="https://user-images.githubusercontent.com/89027512/163724800-d601f4e1-43b1-4011-9c56-b683dcad1bc7.jpg" /></a></p>
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163724800-d601f4e1-43b1-4011-9c56-b683dcad1bc7.jpg" /></a>
+<a href="https://www.deviantart.com/meetnp1706" target="_blank" rel="noreferrer">
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163752999-017582b1-9c81-4773-b1af-f790cee138b9.png" /></a></p>
                                                                                                                                 
 #
 
