@@ -84,6 +84,6 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 #
 <h3 align="center"> ☕ Support Me: </h3><br>
 
-<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buymeacoffee" height="200px" src="https://user-images.githubusercontent.com/89027512/163716702-71661c97-4b42-4539-8360-5766d827a2c7.jpg" /></a></p>
+<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buymeacoffee" height="200px" src="https://user-images.githubusercontent.com/89027512/163767063-594a6bfa-01ad-4b6b-9ac5-6609bc027cb2.jpg" /></a></p>
 
 #
