@@ -20,7 +20,6 @@
 <a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="75" height="75" alt="CSS3" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="Javascript" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank" rel="noreferrer"> <img title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="75" height="75" alt="JQuery" /></a></p>
-
 #
 <h3 align="center"> ℹ️ Some more info on me: </h3><br>
 
@@ -49,7 +48,7 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 >> #### I'm learning and making projects with HTML-CSS-JavaScript-JQuery for more than 3 years from now! 😄 I can build your website, just a [_click 🖱️_](https://meetpatel1706.github.io) to do.
 >> 
 #
-<h3 align="center"> 🙋‍♂️ Find me on: </h3><br>
+<h3 align="center"> 🙋‍♂️ Find me online: </h3><br>
 <p align="center">
 <a href="https://www.github.com/meetpatel1706" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163719699-fee00a64-ecc5-4f0e-ab0a-9cc318c46ef7.png" /></a> 
@@ -60,7 +59,9 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 <a href="https://www.deviantart.com/meetnp1706" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163752999-017582b1-9c81-4773-b1af-f790cee138b9.png" /></a>
 <a href="https://www.chess.com/member/meetpatel1706" target="_blank" rel="noreferrer">
- <img height="100px" src="https://user-images.githubusercontent.com/89027512/163755339-c604139d-ec57-4cc0-83b0-6a9da62c1ebe.png" /></a></p>
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163755339-c604139d-ec57-4cc0-83b0-6a9da62c1ebe.png" /></a>
+<a href="https://dribbble.com/MeetPatel1706" target="_blank" rel="noreferrer">
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163919665-88b104fc-d3df-464e-9f58-e14f375858e4.png" /></a></p>
                                                                                                                                 
 #
 
@@ -82,7 +83,7 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 #### I'm also targeting to attempt [_Microsoft's_](https://microsoft.com) web development examination in further years.
 
 #
-<h3 align="center"> ☕ Support Me: </h3><br>
+<h3 align="center"> ☄️ Buy me a comet: </h3><br>
 
 <p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buymeacoffee" height="200px" src="https://user-images.githubusercontent.com/89027512/163767063-594a6bfa-01ad-4b6b-9ac5-6609bc027cb2.jpg" /></a></p>
 
