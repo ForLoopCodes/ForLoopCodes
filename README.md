@@ -20,6 +20,7 @@
 <a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="75" height="75" alt="CSS3" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="Javascript" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank" rel="noreferrer"> <img title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="75" height="75" alt="JQuery" /></a></p>
+
 #
 <h3 align="center"> ℹ️ Some more info on me: </h3><br>
 
