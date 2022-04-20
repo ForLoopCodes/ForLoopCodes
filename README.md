@@ -12,7 +12,7 @@
 - I'm an **accomplished coder and programmer 👨‍💻**, and I enjoy using my **skills 🤹** to contribute to the exciting **technological advances** that happen every day ☀️.
 - My **hunger 🍔 for knowledge** and **determination** to turn ideas 💡 into applications has contributed to most of my projects. Meanwhile, I vastly improved my  productivity by implementing **strategic project management methods 🙂** and ensuring a **code-life balance ⚖️**.
 - I believe that **mindfulness 🧠 in the workplace is key 🗝️ to success** - a tenet I live out through my interests in coding, speedcubing, chess, and studying.
-- I'm **always interested 🤗 in a challenge**. Refer _find me on_ section below ⬇️ to connect!
+- I'm **always interested 🤗 in a challenge**. Refer _find me online_ section below ⬇️ to connect!
 #
 <h3 align="center"> ✨ My main skills: </h3>
 
@@ -29,7 +29,7 @@
 - 👯 I’m looking to **collaborate on HTML-CSS-JavaScript-JQuery** apps.
 - 🤔 I’m looking for **help with node.js, its commands and learning it.**.
 - 📖 I'm aiming to **crack JEE Mains** Examination.
-- 📫 **How to reach me?** Refer _find me on_ section below ⬇️.
+- 📫 **How to reach me?** Refer _find me online_ section below ⬇️.
 - ⚡ Fun fact: ⭐ **Neutron stars can spin at a rate of 600 rotations per second.**
 - 🤩 Fact on me: I'm a **human**.
 #
