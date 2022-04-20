@@ -84,7 +84,7 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 #### I'm also targeting to attempt [_Microsoft's_](https://microsoft.com) web development examination in further years.
 
 #
-<h3 align="center"> ☄️ Buy me a comet: </h3><br>
+<h3 align="center"> 🛩️ Buy me a fighter jet: </h3><br>
 
 <p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buy me a coffee" height="200px" src="https://user-images.githubusercontent.com/89027512/163767063-594a6bfa-01ad-4b6b-9ac5-6609bc027cb2.jpg" /></a></p>
 
