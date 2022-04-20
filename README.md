@@ -27,7 +27,7 @@
 - 🔭 I’m currently **working on** making and designing a **daily news feed web app**.
 - 🌱 I’m currently **learning Node.js**.
 - 👯 I’m looking to **collaborate on HTML-CSS-JavaScript-JQuery** apps.
-- 🤔 I’m looking for **help with CSS dark modes**.
+- 🤔 I’m looking for **help with node.js, its commands and learning it.**.
 - 📖 I'm aiming to **crack JEE Mains** Examination.
 - 📫 **How to reach me?** Refer _find me on_ section below ⬇️.
 - ⚡ Fun fact: ⭐ **Neutron stars can spin at a rate of 600 rotations per second.**
