@@ -1,9 +1,11 @@
 
-#### Hi there 👋
-
-<h3><img src="https://user-images.githubusercontent.com/89027512/163753169-0c1b747c-d721-41e5-9c84-0edaf9a75a59.gif" /><br> 😎 I was named Meet Patel. </h3>
+<h4><img src="https://slackmojis.com/emojis/4845-rickroll/image/1643514496/rickroll.gif" height="15px">  Hi there 👋 </h4>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h3><img src="https://user-images.githubusercontent.com/89027512/163753169-0c1b747c-d721-41e5-9c84-0edaf9a75a59.gif" /><br> <img align="bottom" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I was named Meet Patel</h3>
 
 ###### 👨‍💻 A front-end web developer and an eager learner from <a href="https://www.google.com/maps/place/Gujarat/@22.4168315,71.319437,7z/data=!3m1!4b1!4m5!3m4!1s0x3959051f5f0ef795:0x861bd887ed54522e!8m2!3d22.258652!4d71.1923805?hl=en" target="_blank" rel="noreferrer">Gujarat, India.</a>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/89027512/164982018-49052a7a-b2ef-4a8a-bf73-f885b8fb6880.png"</p>
 
 #
 <h3 align="center"> 😄 Something about me: </h3><br>
@@ -33,6 +35,29 @@
 - 📫 **How to reach me?** Refer _find me online_ section below ⬇️.
 - ⚡ Fun fact: ⭐ **Neutron stars can spin at a rate of 600 rotations per second.**
 - 🤩 Fact on me: I'm a **human**.
+
+or read this:
+
+
+```javascript
+const meet = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "HTML", "CSS", "JQuery"],
+    askMeAbout: ["painting", "tech", "songs", "rubik's cubes"],
+    technologies: {
+        frontEnd: {
+            js: ["JQuery"],
+        },
+        siteDesign: {
+            native: ["HTML", "CSS", "JavaScript"]
+        },
+    },
+    helpMe: "node.js",
+    currentFocus: "crack JEE Mains",
+    funFact: "Neutron stars can spin at a rate of 600 rotations per second."
+};
+```
+
 #
 <h3 align="center"> 🎨 My hobbies! </h3><br>
 
@@ -50,6 +75,8 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 >> #### I'm learning and making projects with HTML-CSS-JavaScript-JQuery for more than 3 years from now! 😄 I can build your website, just a [_click 🖱️_](https://meetpatel1706.github.io) to do.
 >> 
 #
+<p align="center"><img height="40px" src="https://user-images.githubusercontent.com/89027512/164981218-a282f9a1-c29e-4e92-a83f-ed6a7568462e.gif"></p>
+
 <h3 align="center"> 🙋‍♂️ Find me online: </h3><br>
 <p align="center">
 <a href="https://www.github.com/meetpatel1706" target="_blank" rel="noreferrer">
@@ -75,7 +102,7 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 
 ##### ⬇️ You can now continue scrolling to see more!
 #
-<h3 align="center"> 📈 My Stats: </h3><br>
+<h3 align="center"> 📈 Some Stats: </h3><br>
 
 >> <a href="http://www.github.com/meetpatel1706"><img src="https://github-readme-stats.vercel.app/api?username=meetpatel1706&show_icons=true&hide=&count_private=true&title_color=FAFAD2&text_color=ffffff&icon_color=DAA520&bg_color=000000&hide_border=true&show_icons=true" alt="meetpatel1706's GitHub stats" width="49%" /></a><a href="http://www.github.com/meetpatel1706"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meetpatel1706&stroke=ffffff&background=000000&ring=DAA520&fire=FAFAD2&currStreakNum=ffffff&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="http://www.github.com/meetpatel1706"><img width="98%" src="https://activity-graph.herokuapp.com/graph?username=meetpatel1706&bg_color=000000&color=ffffff&line=EEE8AA&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
