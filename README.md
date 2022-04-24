@@ -21,6 +21,7 @@
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="Javascript" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank" rel="noreferrer"> <img title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="75" height="75" alt="JQuery" /></a></p>
 
+
 #
 <h3 align="center"> ℹ️ Some more info on me: </h3><br>
 
@@ -62,7 +63,10 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 <a href="https://www.chess.com/member/meetpatel1706" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163755339-c604139d-ec57-4cc0-83b0-6a9da62c1ebe.png" /></a>
 <a href="https://dribbble.com/MeetPatel1706" target="_blank" rel="noreferrer">
- <img height="100px" src="https://user-images.githubusercontent.com/89027512/163919665-88b104fc-d3df-464e-9f58-e14f375858e4.png" /></a></p>
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/163919665-88b104fc-d3df-464e-9f58-e14f375858e4.png" /></a>
+<a href="https://discord.com/users/967762715441504296" target="_blank" rel="noreferrer">
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/164977739-fe7a8e6c-c46e-46ab-ad31-fb0bf503503f.png" /></a>
+</p>
                                                                                                                                 
 #
 
