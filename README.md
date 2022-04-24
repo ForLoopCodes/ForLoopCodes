@@ -93,6 +93,8 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163919665-88b104fc-d3df-464e-9f58-e14f375858e4.png" /></a>
 <a href="https://discord.com/users/967762715441504296" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/164977739-fe7a8e6c-c46e-46ab-ad31-fb0bf503503f.png" /></a>
+<a href="https://www.reddit.com/user/MeetPatel1706" target="_blank" rel="noreferrer">
+ <img height="100px" src="https://user-images.githubusercontent.com/89027512/164991672-40824660-c1c3-4f00-b748-4f202cc6523e.jpg" /></a>
 </p>
                                                                                                                                 
 #
