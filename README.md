@@ -1,6 +1,6 @@
 
 <h4><img src="https://slackmojis.com/emojis/4845-rickroll/image/1643514496/rickroll.gif" height="15px">  Hi there 👋 </h4>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="175">
 <h3><img src="https://user-images.githubusercontent.com/89027512/163753169-0c1b747c-d721-41e5-9c84-0edaf9a75a59.gif" /><br> <img align="bottom" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I was named Meet Patel</h3>
 
 ###### 👨‍💻 A front-end web developer and an eager learner from <a href="https://www.google.com/maps/place/Gujarat/@22.4168315,71.319437,7z/data=!3m1!4b1!4m5!3m4!1s0x3959051f5f0ef795:0x861bd887ed54522e!8m2!3d22.258652!4d71.1923805?hl=en" target="_blank" rel="noreferrer">Gujarat, India.</a>
