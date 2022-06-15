@@ -21,7 +21,11 @@
 <p align="center"><br><a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="75" height="75" alt="HTML5" /></a>
 <a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="75" height="75" alt="CSS3" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="Javascript" /></a>
-<a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank" rel="noreferrer"> <img title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="75" height="75" alt="JQuery" /></a></p>
+<a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank" rel="noreferrer"> <img title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="75" height="75" alt="JQuery" /></a>
+<a align="center" href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank" rel="noreferrer"> <img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="75" height="75" alt="React" /></a>
+<a align="center" href="https://www.rainmeter.net" target="_blank" rel="noreferrer"> <img title="Rainmeter" src="https://2.bp.blogspot.com/-JVxm5pMdQ7w/WE6atEQ9scI/AAAAAAAAN1A/ZAX9nHFL15Q0UbRY2gRsJj78nPiy3O3iQCK4B/s1600/Rainmeter.png" width="75" height="75" alt="React" /></a>
+<a align="center" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img title="Adobe XD" src="https://png.pngtree.com/templates/md/20180519/md_5b0022bcebeaa.jpg" width="75" height="75" alt="React" /></a>
+<a align="center" href="https://www.canva.com" target="_blank" rel="noreferrer"> <img title="Canva" src="https://user-images.githubusercontent.com/89027512/173844110-b3fe977b-3e52-4d8b-be15-5b62084ec985.png" width="75" height="75" alt="React" /></a></p>
 
 
 #
@@ -29,7 +33,7 @@
 
 - 🔭 I’m currently **working on** making and designing a **daily news feed web app**.
 - 🌱 I’m currently **learning Node.js**.
-- 👯 I’m looking to **collaborate on HTML-CSS-JavaScript-JQuery** apps.
+- 👯 I’m looking to **collaborate on HTML-CSS-JavaScript-JQuery-React** apps.
 - 🤔 I’m looking for **help with node.js, its commands and learning it.**.
 - 📖 I'm aiming to **crack JEE Mains** Examination.
 - 📫 **How to reach me?** Refer _find me online_ section below ⬇️.
