@@ -34,7 +34,7 @@
 - 🔭 Currently **working on** [**Ketchup**](https://www.github.com/forloopgh/ketchup).
 - 🌱 Currently **learning React.js**.
 - 👯 Looking to **collaborate on HTML-CSS-JavaScript-JQuery-React** apps.
-- 🤔 Looking for **help with React functions.**.
+- 🤔 Looking for **help with React functions.**
 - 📫 **How to reach him?** Refer _find him online_ section below ⬇️.
 
 or read this:
@@ -74,11 +74,9 @@ _**"** 🤗 He's simply one of the most **reliable**, and **affordable 💰** fr
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163722760-dd0f3266-7e48-4303-a70b-9c1e02120c57.png" /></a>
 <a href="mailto:meetnp1706@gmail.com?subject=👋%20Hey%20there!%20@ForLoop!" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/167259825-b4a9f968-67ba-4232-a880-8eba5197b1f8.png" /></a>
-<a href="https://www.deviantart.com/meetnp1706" target="_blank" rel="noreferrer">
- <img height="100px" src="https://user-images.githubusercontent.com/89027512/163752999-017582b1-9c81-4773-b1af-f790cee138b9.png" /></a>
-<a href="https://dribbble.com/MeetPatel1706" target="_blank" rel="noreferrer">
+<a href="https://dribbble.com/ForLoopDR" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163919665-88b104fc-d3df-464e-9f58-e14f375858e4.png" /></a>
-<a href="https://discord.com/users/967762715441504296" target="_blank" rel="noreferrer">
+<a href="https://discord.gg/T7pkMvWKva" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/164977739-fe7a8e6c-c46e-46ab-ad31-fb0bf503503f.png" /></a>
 </p>
                                                                                                                                 
@@ -96,6 +94,6 @@ _**"** 🤗 He's simply one of the most **reliable**, and **affordable 💰** fr
 #
 <h3 align="center"> 🛩️ Buy him a fighter jet: </h3><br>
 
-<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buy me a coffee" height="200px" src="https://user-images.githubusercontent.com/89027512/163767063-594a6bfa-01ad-4b6b-9ac5-6609bc027cb2.jpg" /></a></p>
+<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://buymeacoffee.com/ForLoopCoffee" target="_blank"><img title="Buy me a coffee" height="200px" src="https://user-images.githubusercontent.com/89027512/178199780-d9de0b27-95fd-4327-bb0b-85baaa42e72c.png" /></a></p>
 
 #
