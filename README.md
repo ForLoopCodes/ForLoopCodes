@@ -8,15 +8,15 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/89027512/164982018-49052a7a-b2ef-4a8a-bf73-f885b8fb6880.png"</p>
 
 #
-<h3 align="center"> 😄 Something about me: </h3><br>
+<h3 align="center"> 😄 Something about him: </h3><br>
 
-- I'm **fueled ⛽ by the passion** for understanding the ciphers of **web designing ✍️**. I consider myself a **‘forever student 🧑‍🎓,’** eager to both build on my **academic foundations** in engineering and **stay in tune with the latest 🆕 website design ideas** and web development.
-- I'm an **accomplished coder and programmer 👨‍💻**, and I enjoy using my **skills 🤹** to contribute to the exciting **technological advances** that happen every day ☀️.
-- My **hunger 🍔 for knowledge** and **determination** to turn ideas 💡 into applications has contributed to most of my projects. Meanwhile, I vastly improved my  productivity by implementing **strategic project management methods 🙂** and ensuring a **code-life balance ⚖️**.
-- I believe that **mindfulness 🧠 in the workplace is key 🗝️ to success** - a tenet I live out through my interests in coding, speedcubing, chess, and studying.
-- I'm **always interested 🤗 in a challenge**. Refer _find me online_ section below ⬇️ to connect!
+- **Fueled ⛽ by the passion** for understanding the ciphers of **web designing ✍️**. Considers himself a **‘forever student 🧑‍🎓,’** eager to **stay in tune with the latest 🆕 website design ideas** and web development.
+- An **accomplished coder and programmer 👨‍💻**, and enjoys using his **skills 🤹** to contribute to the exciting **technological advances** that happen every day ☀️.
+- His **hunger 🍔 for knowledge** and **determination** to turn ideas 💡 into applications has contributed to most of his projects. Meanwhile, he vastly improved his  productivity by implementing **strategic project management methods 🙂** and ensuring a **code-life balance ⚖️**.
+- Believes that **mindfulness 🧠 in the workplace is key 🗝️ to success.**
+- He's **always interested 🤗 in a challenge**. Refer _find him online_ section below ⬇️ to connect!
 #
-<h3 align="center"> ✨ My main skills: </h3>
+<h3 align="center"> ✨ His main skills: </h3>
 
 <p align="center"><br><a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="75" height="75" alt="HTML5" /></a>
 <a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="75" height="75" alt="CSS3" /></a>
@@ -29,76 +29,57 @@
 
 
 #
-<h3 align="center"> ℹ️ Some more info on me: </h3><br>
+<h3 align="center"> ℹ️ Some more info on Him: </h3><br>
 
-- 🔭 I’m currently **working on** making and designing a **daily news feed web app**.
-- 🌱 I’m currently **learning Node.js**.
-- 👯 I’m looking to **collaborate on HTML-CSS-JavaScript-JQuery-React** apps.
-- 🤔 I’m looking for **help with node.js, its commands and learning it.**.
-- 📖 I'm aiming to **crack JEE Mains** Examination.
-- 📫 **How to reach me?** Refer _find me online_ section below ⬇️.
-- ⚡ Fun fact: ⭐ **Neutron stars can spin at a rate of 600 rotations per second.**
-- 🤩 Fact on me: I'm a **human**.
+- 🔭 Currently **working on** [**Ketchup**](https://www.github.com/forloopgh/ketchup).
+- 🌱 Currently **learning React.js**.
+- 👯 Looking to **collaborate on HTML-CSS-JavaScript-JQuery-React** apps.
+- 🤔 Looking for **help with React functions.**.
+- 📫 **How to reach him?** Refer _find him online_ section below ⬇️.
 
 or read this:
 
 
 ```javascript
-const meet = {
+const ForLoop = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "CSS", "JQuery"],
-    askMeAbout: ["painting", "tech", "songs", "rubik's cubes"],
+    askMeAbout: ["tech", "webDevelopment", "siteDesign"],
     technologies: {
         frontEnd: {
-            js: ["JQuery"],
+            js: ["Vanilla", "JQuery", "React"],
         },
         siteDesign: {
             native: ["HTML", "CSS", "JavaScript"]
         },
     },
-    helpMe: "node.js",
-    currentFocus: "crack JEE Mains",
-    funFact: "Neutron stars can spin at a rate of 600 rotations per second."
+    helpMe: "reactFunctions",
 };
 ```
 
 #
-<h3 align="center"> 🎨 My hobbies! </h3><br>
+<h3 align="center"> 🎊 Hire him! </h3><br>
 
-- I'm a good **sketchiest** ✏️
-- I listen **pop**, **hip-hop**, and **electronic** songs 🎶 
-- I love collecting old **coins** 🪙
-- I've collected a lot of **seashells!** 🐚 
-- I **design** websites 🧑‍💻
-- I speedsolve 3x3, 4x4 and 5x5 **rubik's cubes** 😈
-- I also love playing **chess!** ♟️
-#
-<h3 align="center"> 🎊 Hire me! </h3><br>
-
-_**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** front-end web developers you will come across! My ability to write codes, sharable content, **professionalism 😸**, and attention in **detail** are extremely hard to find 😉. I'm a **creative 🎨** idea 💡 generator and deliver **quality**, strategic content 📝. I will surely make your dreams come true, grasp your business needs 🙌 and **meet your goals!** **"**_
->> #### I'm learning and making projects with HTML-CSS-JavaScript-JQuery for more than 3 years from now! 😄 I can build your website, just a [_click 🖱️_](https://meetpatel1706.github.io) to do.
+_**"** 🤗 He's simply one of the most **reliable**, and **affordable 💰** front-end web developers you will come across! His ability to write codes, sharable content, **professionalism 😸**, and attention in **detail** are extremely hard to find 😉. He's a **creative 🎨** idea 💡 generator and deliver **quality**, strategic content 📝. He would surely make your dreams come true, grasp your business needs 🙌 and **meet your goals!** **"**_
+>> #### He's making projects with HTML-CSS-JavaScript-JQuery for more than 3 years from now! 😄 He can build your website, just a [_click 🖱️_](https://Forloopgh.github.io) to do.
 >> 
 #
 <p align="center"><img height="40px" src="https://user-images.githubusercontent.com/89027512/164981218-a282f9a1-c29e-4e92-a83f-ed6a7568462e.gif"></p>
 
-<h3 align="center"> 🙋‍♂️ Find me online: </h3><br>
+<h3 align="center"> 🙋‍♂️ Find him online: </h3><br>
 <p align="center">
-<a href="https://www.github.com/meetpatel1706" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/forloopgh" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163719699-fee00a64-ecc5-4f0e-ab0a-9cc318c46ef7.png" /></a> 
 <a href="https://www.youtube.com/channel/UCvzOZ7bQm1Gj4RdspWyaKBw" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163722760-dd0f3266-7e48-4303-a70b-9c1e02120c57.png" /></a>
-<a href="mailto:meetnp1706@gmail.com?subject=👋%20Hey%20there!%20Meet%20Patel!" target="_blank" rel="noreferrer">
+<a href="mailto:meetnp1706@gmail.com?subject=👋%20Hey%20there!%20@ForLoop!" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/167259825-b4a9f968-67ba-4232-a880-8eba5197b1f8.png" /></a>
 <a href="https://www.deviantart.com/meetnp1706" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163752999-017582b1-9c81-4773-b1af-f790cee138b9.png" /></a>
-<a href="https://www.chess.com/member/meetpatel1706" target="_blank" rel="noreferrer">
- <img height="100px" src="https://user-images.githubusercontent.com/89027512/163755339-c604139d-ec57-4cc0-83b0-6a9da62c1ebe.png" /></a>
 <a href="https://dribbble.com/MeetPatel1706" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163919665-88b104fc-d3df-464e-9f58-e14f375858e4.png" /></a>
 <a href="https://discord.com/users/967762715441504296" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/164977739-fe7a8e6c-c46e-46ab-ad31-fb0bf503503f.png" /></a>
-<a href="https://www.reddit.com/user/MeetPatel1706" target="_blank" rel="noreferrer">
- <img height="100px" src="https://user-images.githubusercontent.com/89027512/164991672-40824660-c1c3-4f00-b748-4f202cc6523e.jpg" /></a>
 </p>
                                                                                                                                 
 #
@@ -106,22 +87,14 @@ _**"** 🤗 I'm simply one of the most **reliable**, and **affordable 💰** fro
 <p align="center"><img src="https://user-images.githubusercontent.com/89027512/163426788-49aa3f73-6636-4586-998b-45b42ea7d560.png"></p>
 <h3 align="center"> 💖 It's my pleasure that such a beautiful person is reading my profile. 😍 </h3>
 
-##### ⬇️ You can now continue scrolling to see more!
+##### ⬇️ You can now continue scrolling for more!
 #
 <h3 align="center"> 📈 Some Stats: </h3><br>
 
->> <a href="http://www.github.com/meetpatel1706"><img src="https://github-readme-stats.vercel.app/api?username=meetpatel1706&show_icons=true&hide=&count_private=true&title_color=FAFAD2&text_color=ffffff&icon_color=DAA520&bg_color=000000&hide_border=true&show_icons=true" alt="meetpatel1706's GitHub stats" width="49%" /></a><a href="http://www.github.com/meetpatel1706"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meetpatel1706&stroke=ffffff&background=000000&ring=DAA520&fire=FAFAD2&currStreakNum=ffffff&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="http://www.github.com/meetpatel1706"><img width="98%" src="https://activity-graph.herokuapp.com/graph?username=meetpatel1706&bg_color=000000&color=ffffff&line=EEE8AA&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+>> <a href="http://www.github.com/forloopgh"><img src="https://github-readme-stats.vercel.app/api?username=forloopgh&show_icons=true&hide=&count_private=true&title_color=FAFAD2&text_color=ffffff&icon_color=DAA520&bg_color=000000&hide_border=true&show_icons=true" alt="ForLoop's GitHub stats" width="49%" /></a><a href="http://www.github.com/forloopgh"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=forloopgh&stroke=ffffff&background=000000&ring=DAA520&fire=FAFAD2&currStreakNum=ffffff&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="http://www.github.com/forloopgh"><img width="98%" src="https://activity-graph.herokuapp.com/graph?username=forloopgh&bg_color=000000&color=ffffff&line=EEE8AA&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 #
-<h3 align="center"> 🏆 Hall of fame: </h3><br>
-
-#### 🎉 I'm a [_W3Schools_](https://w3schools.com) **certified** front-end web developer for the year 2021. ⬇️
-> <img width="49%" src="https://user-images.githubusercontent.com/89027512/163414614-98c4951c-671c-4ad4-96e8-658f6a507902.PNG" alt="HTML CERTIFICATE OF MEET PATEL."/><img width="49%" src="https://user-images.githubusercontent.com/89027512/163441329-78c134e7-b09f-4a40-9ad1-ba6d1adea7ed.png" alt="CSS CERTIFICATE OF MEET PATEL."/><img width="49%" src="https://user-images.githubusercontent.com/89027512/163675005-0df2c98d-b17a-4c48-8920-0fbe1362bfdf.png" alt="JAVASCRIPT CERTIFICATE OF MEET PATEL."/><img width="49%" src="https://user-images.githubusercontent.com/89027512/163714130-9ab52661-2249-40ba-8a53-0f0a49433408.png" alt="JQUERY CERTIFICATE OF MEET PATEL."/>
-
-#### I'm also targeting to attempt [_Microsoft's_](https://microsoft.com) web development examination in further years.
-
-#
-<h3 align="center"> 🛩️ Buy me a fighter jet: </h3><br>
+<h3 align="center"> 🛩️ Buy him a fighter jet: </h3><br>
 
 <p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://www.buymeacoffee.com/MeetPatel1706" target="_blank"><img title="Buy me a coffee" height="200px" src="https://user-images.githubusercontent.com/89027512/163767063-594a6bfa-01ad-4b6b-9ac5-6609bc027cb2.jpg" /></a></p>
 
