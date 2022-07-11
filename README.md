@@ -31,7 +31,6 @@
 #
 <h3 align="center"> ℹ️ Some more info on Him: </h3><br>
 
-- 🔭 Currently **working on** [**Ketchup**](https://www.github.com/forloopgh/ketchup).
 - 🌱 Currently **learning React.js**.
 - 👯 Looking to **collaborate on HTML-CSS-JavaScript-JQuery-React** apps.
 - 🤔 Looking for **help with React functions.**
@@ -94,6 +93,6 @@ _**"** 🤗 He's simply one of the most **reliable**, and **affordable 💰** fr
 #
 <h3 align="center"> 🛩️ Buy him a fighter jet: </h3><br>
 
-<p align="center"><a href="https://ko-fi.com/meetpatel1706" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/163718111-27762aa3-f73f-4ec7-b781-a03c16b0c939.png" /></a><a href="https://buymeacoffee.com/ForLoopCoffee" target="_blank"><img title="Buy me a coffee" height="200px" src="https://user-images.githubusercontent.com/89027512/178199780-d9de0b27-95fd-4327-bb0b-85baaa42e72c.png" /></a></p>
+<p align="center"><a href="https://ko-fi.com/forloopcoffee" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/178203450-2dda1b09-8194-48d3-a1f0-547d992a174d.png" /></a><a href="https://buymeacoffee.com/ForLoopCoffee" target="_blank"><img title="Buy me a coffee" height="200px" src="https://user-images.githubusercontent.com/89027512/178199780-d9de0b27-95fd-4327-bb0b-85baaa42e72c.png" /></a></p>
 
 #
