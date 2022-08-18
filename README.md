@@ -26,7 +26,6 @@
 <a align="center" href="https://www.rainmeter.net" target="_blank" rel="noreferrer"> <img title="Rainmeter" src="https://2.bp.blogspot.com/-JVxm5pMdQ7w/WE6atEQ9scI/AAAAAAAAN1A/ZAX9nHFL15Q0UbRY2gRsJj78nPiy3O3iQCK4B/s1600/Rainmeter.png" width="75" height="75" alt="Rainmeter" /></a>
 <a align="center" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img title="Git" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="75" height="75" alt="Git" /></a>
 <a align="center" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img title="Adobe XD" src="https://png.pngtree.com/templates/md/20180519/md_5b0022bcebeaa.jpg" width="75" height="75" alt="Adobe XD" /></a>
-<a align="center" href="https://www.canva.com" target="_blank" rel="noreferrer"> <img title="Canva" src="https://user-images.githubusercontent.com/89027512/173844110-b3fe977b-3e52-4d8b-be15-5b62084ec985.png" width="75" height="75" alt="Canva" /></a>
 <a align="center" href="https://www.canva.com" target="_blank" rel="noreferrer"> <img title="Canva" src="https://user-images.githubusercontent.com/89027512/173844110-b3fe977b-3e52-4d8b-be15-5b62084ec985.png" width="75" height="75" alt="Canva" /></a></p>
 
 
