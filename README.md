@@ -1,7 +1,7 @@
 #### 👋 Hello There! Welcome to the ForLoop's official GitHub page!
 
 
-#### 👨‍💻 Meet the last web developer on Earth.
+#### 👨‍💻 Wild Code.
 
 # **@ForLoop**
 
@@ -32,9 +32,9 @@
 #
 <h3 align="center"> ℹ️ Some more info on Him: </h3><br>
 
-- 🌱 Currently **learning React.js**.
+- 🌱 Currently **learning backend**.
 - 👯 Looking to **collaborate on HTML-CSS-JavaScript-JQuery-React** apps.
-- 🤔 Looking for **help with React functions.**
+- 🤔 Looking for **help with Node.js.**
 - 📫 **How to reach him?** Refer _find him online_ section below ⬇️.
 
 or read this:
@@ -43,7 +43,7 @@ or read this:
 ```javascript
 const ForLoop = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "JQuery"],
+    code: ["Javascript", "HTML", "CSS", "JQuery", "React"],
     askMeAbout: ["tech", "webDevelopment", "siteDesign"],
     technologies: {
         frontEnd: {
@@ -53,7 +53,7 @@ const ForLoop = {
             native: ["HTML", "CSS", "JavaScript"]
         },
     },
-    helpMe: "reactFunctions",
+    helpMe: "nodeJs",
 };
 ```
 
