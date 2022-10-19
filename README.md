@@ -1,7 +1,7 @@
 #### 👋 Hello There! Welcome to the ForLoop's official GitHub page!
 
 
-#### 👨‍💻 Wild Code.
+#### #️⃣ Wild Code.
 
 # **@ForLoop**
 
@@ -21,6 +21,8 @@
 <p align="center"><br><a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="75" height="75" alt="HTML5" /></a>
 <a align="center" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="75" height="75" alt="CSS3" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="Javascript" /></a>
+<a align="center" href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs" target="_blank" rel="noreferrer"> <img title="Node.js" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" width="70" height="75" alt="Node.js" /></a>
+<a align="center" href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs" target="_blank" rel="noreferrer"> <img title="Express.js" src="https://www.mementotech.in/assets/images/icons/express.png" width="75" height="75" alt="Express.js" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank" rel="noreferrer"> <img title="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="75" height="75" alt="JQuery" /></a>
 <a align="center" href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank" rel="noreferrer"> <img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="75" height="75" alt="React" /></a>
 <a align="center" href="https://www.rainmeter.net" target="_blank" rel="noreferrer"> <img title="Rainmeter" src="https://2.bp.blogspot.com/-JVxm5pMdQ7w/WE6atEQ9scI/AAAAAAAAN1A/ZAX9nHFL15Q0UbRY2gRsJj78nPiy3O3iQCK4B/s1600/Rainmeter.png" width="75" height="75" alt="Rainmeter" /></a>
@@ -33,8 +35,8 @@
 <h3 align="center"> ℹ️ Some more info on Him: </h3><br>
 
 - 🌱 Currently **learning backend**.
-- 👯 Looking to **collaborate on HTML-CSS-JavaScript-JQuery-React** apps.
-- 🤔 Looking for **help with Node.js.**
+- 👯 Looking to **collaborate on full stack web** apps.
+- 🤔 Looking for **a person who needs free web solutions.**
 - 📫 **How to reach him?** Refer _find him online_ section below ⬇️.
 
 or read this:
@@ -43,17 +45,19 @@ or read this:
 ```javascript
 const ForLoop = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "JQuery", "React"],
-    askMeAbout: ["tech", "webDevelopment", "siteDesign"],
+    code: ["Javascript", "HTML", "CSS", "JQuery", "React", "Node"],
+    askMeAbout: ["tech", "webDevelopment", "siteDesign", "backEnd"],
     technologies: {
         frontEnd: {
             js: ["Vanilla", "JQuery", "React"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
         },
         siteDesign: {
             native: ["HTML", "CSS", "JavaScript"]
         },
     },
-    helpMe: "nodeJs",
 };
 ```
 
@@ -61,7 +65,7 @@ const ForLoop = {
 <h3 align="center"> 🎊 Hire him! </h3><br>
 
 _**"** 🤗 He's simply one of the most **reliable**, and **affordable 💰** front-end web developers you will come across! His ability to write codes, sharable content, **professionalism 😸**, and attention in **detail** are extremely hard to find 😉. He's a **creative 🎨** idea 💡 generator and deliver **quality**, strategic content 📝. He would surely make your dreams come true, grasp your business needs 🙌 and **meet your goals!** **"**_
->> #### He's making projects with HTML-CSS-JavaScript-JQuery for more than 3 years from now! 😄 He can build your website, just a [_click 🖱️_](https://Forloopgh.github.io) to do.
+>> #### He's building complete web-dev solutions for more than 4 years from now! 😄 He can build your website, just a [_click 🖱️_](https://Forloopgh.github.io) to do.
 >> 
 #
 <p align="center"><img height="40px" src="https://user-images.githubusercontent.com/89027512/164981218-a282f9a1-c29e-4e92-a83f-ed6a7568462e.gif"></p>
