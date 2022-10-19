@@ -35,6 +35,7 @@
 <h3 align="center"> ℹ️ Some more info on Him: </h3><br>
 
 - 🌱 Currently **learning backend**.
+- 🧦 I got **neon socks.**
 - 👯 Looking to **collaborate on full stack web** apps.
 - 🤔 Looking for **a person who needs free web solutions.**
 - 📫 **How to reach him?** Refer _find him online_ section below ⬇️.
