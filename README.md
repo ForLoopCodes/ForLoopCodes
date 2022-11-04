@@ -1,7 +1,7 @@
 #### 👋 Hello There! Welcome to the ForLoop's official GitHub page!
 
 
-#### #️⃣ Wild Code.
+#### #️⃣ Neon sock.
 
 # **@ForLoop**
 
@@ -10,7 +10,7 @@
 #
 <h3 align="center"> 😄 Something about him: </h3><br>
 
-- **Fueled ⛽ by the passion** for understanding the ciphers of **web designing ✍️**. Considers himself a **‘forever student 🧑‍🎓,’** eager to **stay in tune with the latest 🆕 website design ideas** and web development.
+- **Fueled ⛽ by the passion** for understanding the ciphers of **full stack web development ✍️**. Considers himself a **‘forever student 🧑‍🎓,’** eager to **stay in tune with the latest 🆕 website ideas** and web development.
 - An **accomplished coder and programmer 👨‍💻**, and enjoys using his **skills 🤹** to contribute to the exciting **technological advances** that happen every day ☀️.
 - His **hunger 🍔 for knowledge** and **determination** to turn ideas 💡 into applications has contributed to most of his projects. Meanwhile, he vastly improved his  productivity by implementing **strategic project management methods 🙂** and ensuring a **code-life balance ⚖️**.
 - Believes that **mindfulness 🧠 in the workplace is key 🗝️ to success.**
@@ -34,10 +34,10 @@
 #
 <h3 align="center"> ℹ️ Some more info on Him: </h3><br>
 
-- 🌱 Currently **learning backend**.
 - 🧦 I got **neon socks.**
+- 🌱 Currently **finishing learning backend**.
+- 🧑‍💻 A **full-stack** web developer.
 - 👯 Looking to **collaborate on full stack web** apps.
-- 🤔 Looking for **a person who needs free web solutions.**
 - 📫 **How to reach him?** Refer _find him online_ section below ⬇️.
 
 or read this:
@@ -48,7 +48,7 @@ const ForLoop = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "CSS", "JQuery", "React", "Node"],
     askMeAbout: ["tech", "webDevelopment", "siteDesign", "backEnd"],
-    technologies: {
+    fullStack: {
         frontEnd: {
             js: ["Vanilla", "JQuery", "React"],
         },
@@ -65,17 +65,17 @@ const ForLoop = {
 #
 <h3 align="center"> 🎊 Hire him! </h3><br>
 
-_**"** 🤗 He's simply one of the most **reliable**, and **affordable 💰** front-end web developers you will come across! His ability to write codes, sharable content, **professionalism 😸**, and attention in **detail** are extremely hard to find 😉. He's a **creative 🎨** idea 💡 generator and deliver **quality**, strategic content 📝. He would surely make your dreams come true, grasp your business needs 🙌 and **meet your goals!** **"**_
->> #### He's building complete web-dev solutions for more than 4 years from now! 😄 He can build your website, just a [_click 🖱️_](https://Forloopgh.github.io) to do.
+_**"** 🤗 He's simply one of the most **reliable**, and **affordable 💰** full-stack web developers you will come across! His ability to write codes, sharable content, **professionalism 😸**, and attention in **detail** are extremely hard to find 😉. He's a **creative 🎨** idea 💡 generator and deliver **quality**, strategic content 📝. He would surely make your dreams come true, grasp your business needs 🙌 and **meet your goals!** **"**_
+>> #### He's building complete full-stack apps for more than 4 years from now! 😄 He can build your website, just a [_click 🖱️_](https://ForLoopCodes.github.io) away!
 >> 
 #
 <p align="center"><img height="40px" src="https://user-images.githubusercontent.com/89027512/164981218-a282f9a1-c29e-4e92-a83f-ed6a7568462e.gif"></p>
 
 <h3 align="center"> 🙋‍♂️ Find him online: </h3><br>
 <p align="center">
-<a href="https://www.github.com/forloopgh" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/ForLoopCodes" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163719699-fee00a64-ecc5-4f0e-ab0a-9cc318c46ef7.png" /></a> 
-<a href="https://www.youtube.com/channel/UCvzOZ7bQm1Gj4RdspWyaKBw" target="_blank" rel="noreferrer">
+<a href="https://www.youtube.com/@forloopcodes" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/163722760-dd0f3266-7e48-4303-a70b-9c1e02120c57.png" /></a>
 <a href="mailto:meetnp1706@gmail.com?subject=👋%20Hey%20there!%20@ForLoop!" target="_blank" rel="noreferrer">
  <img height="100px" src="https://user-images.githubusercontent.com/89027512/167259825-b4a9f968-67ba-4232-a880-8eba5197b1f8.png" /></a>
@@ -94,11 +94,11 @@ _**"** 🤗 He's simply one of the most **reliable**, and **affordable 💰** fr
 #
 <h3 align="center"> 📈 Some Stats: </h3><br>
 
->> <a href="http://www.github.com/forloopgh"><img src="https://github-readme-stats.vercel.app/api?username=forloopgh&show_icons=true&hide=&count_private=true&title_color=FAFAD2&text_color=ffffff&icon_color=DAA520&bg_color=000000&hide_border=true&show_icons=true" alt="ForLoop's GitHub stats" width="49%" /></a><a href="http://www.github.com/forloopgh"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=forloopgh&stroke=ffffff&background=000000&ring=DAA520&fire=FAFAD2&currStreakNum=ffffff&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="http://www.github.com/forloopgh"><img width="49%" src="https://activity-graph.herokuapp.com/graph?username=forloopgh&bg_color=000000&color=ffffff&line=EEE8AA&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="http://www.github.com/forloopgh"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=forloopgh&show_icons=true&theme=dark&locale=en&layout=compact" alt="forloopgh" /></a>
+>> <a href="http://www.github.com/ForLoopCodes"><img src="https://github-readme-stats.vercel.app/api?username=ForLoopCodes&show_icons=true&hide=&count_private=true&title_color=FAFAD2&text_color=ffffff&icon_color=DAA520&bg_color=000000&hide_border=true&show_icons=true" alt="ForLoop's GitHub stats" width="49%" /></a><a href="http://www.github.com/ForLoopCodes"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ForLoopCodes&stroke=ffffff&background=000000&ring=DAA520&fire=FAFAD2&currStreakNum=ffffff&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="http://www.github.com/ForLoopCodes"><img width="49%" src="https://activity-graph.herokuapp.com/graph?username=ForLoopCodes&bg_color=000000&color=ffffff&line=EEE8AA&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="http://www.github.com/ForLoopCodes"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ForLoopCodes&show_icons=true&theme=dark&locale=en&layout=compact" alt="ForLoopCodes" /></a>
 
 #
 <h3 align="center"> 🛩️ Buy him a fighter jet: </h3><br>
 
-<p align="center"><a href="https://ko-fi.com/forloopcoffee" target="_blank"><img title="Ko-Fi" height="200px" src="https://user-images.githubusercontent.com/89027512/178203450-2dda1b09-8194-48d3-a1f0-547d992a174d.png" /></a><a href="https://buymeacoffee.com/ForLoopCoffee" target="_blank"><img title="Buy me a coffee" height="200px" src="https://user-images.githubusercontent.com/89027512/178199780-d9de0b27-95fd-4327-bb0b-85baaa42e72c.png" /></a></p>
+<p align="center"><a href="https://buymeacoffee.com/ForLoopCoffee" target="_blank"><img title="Buy me a coffee" height="200px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8xMS9jMjkxMjA0Y2NiOTgwYjBlOWRkYTI3NDRkYThjY2ZhYi5wbmdAMzAwd18wZS53ZWJw&creator=ForLoop&is_creating=getting%20neon%20socks%F0%9F%A7%A6%20&design_code=1&design_color=%235F7FFF&slug=ForLoopCoffee" /></a></p>
 
 #
