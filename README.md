@@ -1,6 +1,5 @@
 #### 👋 Hello There! Welcome to the ForLoop's official GitHub page!
 
-
 #### #️⃣ Neon sock.
 
 # **@ForLoop**
@@ -45,15 +44,14 @@ or read this:
 
 ```javascript
 const ForLoop = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "JQuery", "React", "Node"],
-    askMeAbout: ["tech", "webDevelopment", "siteDesign", "backEnd"],
-    fullStack: {
+    "code": ["Javascript", "HTML", "CSS", "JQuery", "React", "Node", ],
+    "askMeAbout": ["tech", "webDevelopment", "siteDesign", "backEnd"],
+    "fullStack": {
         frontEnd: {
-            js: ["Vanilla", "JQuery", "React"],
+            js: ["Vanilla", "JQuery", "React", "Svelte", "Tailwind"],
         },
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "MongoDB Atlas"],
         },
         siteDesign: {
             native: ["HTML", "CSS", "JavaScript"]
