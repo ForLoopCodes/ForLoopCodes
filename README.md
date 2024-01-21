@@ -1,7 +1,5 @@
 #### 👋 Hello There! Welcome to the ForLoop's official GitHub page!
 
-#### #️⃣ Neon sock.
-
 # **@ForLoop**
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89027512/164982018-49052a7a-b2ef-4a8a-bf73-f885b8fb6880.png"</p>
