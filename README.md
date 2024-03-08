@@ -4,6 +4,8 @@
 💀 ForLoopCodes
 
    💡 "There are only 2 ways to write error-free programs, only the third one works!"
+   🧑‍💻 Full-stack web developer.
+   👯 Looking to collaborate.
 
    🔥 passion    💻 development  🧑‍🎓 lifelong learner  🆕 cutting-edge        👨‍💻 programmer 
    🤹 expertise  📚 knowledge    🔥 drive             📈 strategic planning  🧠 mindfulness
@@ -13,14 +15,8 @@
    🖥️ HTML            🎨 CSS             💻 JavaScript    💰 JQuery        🔵 Node.js      
    🌐 Svelte          🌊 Tailwind        ⚛️ React.js      ⚛️ JSX           🚀 Express.js   
    🌍 MongoDB Atlas   🤖 OpenAI GPT-JS   🌳 Git           🖌️ Adobe XD      🎨 Canva        
-   📐 Figma           🤖 Discord.js      🌧️ RMSkins       ♟️ Stockfish      💾 MySQL        
+   📐 Figma           🤖 Discord.js      🌧️ RMSkins       ♟️ Stockfish     💾 MySQL        
    🐍 Basics of Python (Pandas & Matplotlib)               ☕ Basics of Kotlin & Java         
-
-ℹ️ More info 
-
-   🌱 Finishing learning backend.
-   🧑‍💻 Full-stack web developer.
-   👯 Looking to collaborate.
 
 🎊 Hire me
 
