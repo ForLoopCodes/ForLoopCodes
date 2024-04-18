@@ -5,7 +5,7 @@
 💀 ForLoopCodes
 
    💡 "There are only 2 ways to write error-free programs, only the third one works!"
-   🧑‍💻 Full-stack web developer.
+   🧑‍💻 Full-stack web developer and Python enthusiast.
    👯 Looking to collaborate.
 
    🔥 passion    💻 development  🧑‍🎓 lifelong learner  🆕 cutting-edge        👨‍💻 programmer 
@@ -17,7 +17,7 @@
    🌐 Svelte          🌊 Tailwind        ⚛️ React.js      ⚛️ JSX           🚀 Express.js   
    🌍 MongoDB Atlas   🤖 OpenAI GPT-JS   🌳 Git           🖌️ Adobe XD      🎨 Canva        
    📐 Figma           🤖 Discord.js      🌧️ RMSkins       ♟️ Stockfish     💾 MySQL        
-   🐍 Basics of Python (Pandas & Matplotlib)               ☕ Basics of Kotlin & Java         
+   🐍 Python          🐼 Pandas          📊 Matplotlib    ☕ Basics of Kotlin & Java         
 
 🎊 Hire me
 
