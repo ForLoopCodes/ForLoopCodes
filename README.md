@@ -13,11 +13,12 @@
 
 ✨ Skills
 
-   🖥️ HTML            🎨 CSS             💻 JavaScript    💰 JQuery        🔵 Node.js      
-   🌐 Svelte          🌊 Tailwind        ⚛️ React.js      ⚛️ JSX           🚀 Express.js   
-   🌍 MongoDB Atlas   🤖 OpenAI GPT-JS   🌳 Git           🖌️ Adobe XD      🎨 Canva        
-   📐 Figma           🤖 Discord.js      🌧️ RMSkins       ♟️ Stockfish     💾 MySQL        
-   🐍 Python          🐼 Pandas          📊 Matplotlib    ☕ Basics of Kotlin & Java         
+   🖥️ HTML            🎨 CSS              💻 JavaScript    💰 JQuery        🔵 Node.js      
+   🌐 Svelte          🌊 Tailwind         ⚛️ React.js      ⚛️ JSX           🚀 Express.js   
+   🌍 MongoDB Atlas   🤖 OpenAI GPT-JS    🌳 Git           🖌️ Adobe XD      🎨 Canva        
+   📐 Figma           🤖 Discord.js       🌧️ RMSkins       ♟️ Stockfish     💾 MySQL        
+   🐍 Python          🐼 Pandas           📊 Matplotlib    ☕ Basics of Kotlin & Java
+   🫀 C               📅 Data Structures  🪛 Algorithms     
 
 🎊 Hire me
 
