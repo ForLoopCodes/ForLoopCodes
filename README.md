@@ -12,14 +12,14 @@
 
 ✨ Skills
 
-🖥️ HTML  🎨 CSS  💻 JavaScript  💰 jQuery  🔵 Node.js  ⚡ TypeScript  
+🖥️ HTML  🎨 CSS  💻 JavaScript  💰 jQuery  🔵 Node.js  ⚡ TypeScript  🧩 ShadCN/UI
 🌐 Svelte  🌊 Tailwind CSS  ⚛️ React.js  🧩 Next.js  🖥️ Electron.js  🎬 Framer Motion  
 🚀 Express.js  🗄️ MongoDB Atlas  🗃️ MySQL  🐘 PostgreSQL  🦾 Supabase  🔑 NextAuth.js  
 🧑‍🎨 UI/UX: Adobe XD, Canva, Figma  🧑‍💻 Git, GitHub  🧑‍🔬 Docker, Prisma ORM, Drizzle ORM  
 🤖 Discord.js  🌧️ Rainmeter Skins  ♟️ Stockfish (Chess engine)  🧠 Data Structures & Algorithms  
 🐍 Python  🐼 Pandas  📊 Matplotlib  🔬 scikit-learn  🧠 TensorFlow  🔥 PyTorch  
 ☕ Basics of Kotlin & Java  🫀 C  🦾 Rust (+Anchor)  🌞 Solana  🦾 FastAPI  🔥 Django  
-🧠 AI Chat APIs (ChatGPT, Gemini, MistralAI, DeepSeek)  📝 Markdown  ⚡ Bun  ⚡ Vite  🖌️ Animate-on-scroll  🧩 ShadCN/UI
+🧠 AI Chat APIs (ChatGPT, Gemini, MistralAI, DeepSeek)  📝 Markdown  ⚡ Bun  ⚡ Vite  🖌️ Animate-on-scroll
 
 🎊 Hire Me
 
