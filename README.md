@@ -1,14 +1,2 @@
-"There are only 2 ways to write error-free programs, only the third one works!"
-
-having a skills section is slop, go check my whole [website](https://forloopcodes.me)
-
-Find Me
-
-| Platform | Handle | Link |
-|----------|--------|------|
-| Email | meetnp1706@gmail.com | - |
-| X (Twitter) | @forloopcodes | https://twitter.com/forloopcodes |
-| GitHub | @ForLoopCodes | https://www.github.com/ForLoopCodes |
-| YouTube | @forloopcodes | https://www.youtube.com/@forloopcodes |
-| Discord | @forloopcodes | https://discord.gg/T7pkMvWKva |
-| Buy Me a Coffee | ForLoopCoffee | https://buymeacoffee.com/ForLoopCoffee |
+<img width="539" height="192" alt="image" src="https://github.com/user-attachments/assets/9ef73dae-fd55-43eb-bc4c-b17dc59286e4" /><p>
+[`website`](https://forloopcodes.me) . [`email`](mailto:meetnp1706@gmail.com) . [`x`](https://twitter.com/forloopcodes) . [`github`](https://github.com/ForLoopCodes) . [`youtube`](https://youtube.com/@forloopcodes) . [`discord`](https://discord.gg/T7pkMvWKva) . [`coffee`](https://buymeacoffee.com/ForLoopCoffee) . [`dribbble`](https://dribbble.com/ForLoopDR)
