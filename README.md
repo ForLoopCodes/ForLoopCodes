@@ -2,5 +2,4 @@
 
 [`x`](https://twitter.com/forloopcodes) . [`github`](https://github.com/ForLoopCodes) . [`youtube`](https://youtube.com/@forloopcodes)
 
-`context+ 1.3k*` . `legacy-notepad 470*` . `termhunt` . `phoneagent`
 <!-- [`website`](https://forloopcodes.me) . [`email`](mailto:meetnp1706@gmail.com) . [`x`](https://twitter.com/forloopcodes) . [`github`](https://github.com/ForLoopCodes) . [`youtube`](https://youtube.com/@forloopcodes) . [`discord`](https://discord.gg/T7pkMvWKva) . [`coffee`](https://buymeacoffee.com/ForLoopCoffee) . [`dribbble`](https://dribbble.com/ForLoopDR) -->
